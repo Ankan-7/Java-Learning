@@ -26,12 +26,14 @@ Java-Learning/
 
 The folders will be added and updated as I progress.
 
-Tools
+## Tools
+
 Java (JDK 21)
 Visual Studio Code
 Git
 GitHub
-Practice
+
+## Practice
 
 DSA and problem-solving practice will be done alongside the language
 learning, mainly using LeetCode and other coding platforms.
