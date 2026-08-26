@@ -1,82 +1,37 @@
-# Java Learning Journey
+# Java Learning
 
-Welcome to my Java learning repository!
+This repository contains my Java practice and learning work.
 
-This repository documents my journey of learning and strengthening Java — starting from the fundamentals and gradually progressing toward Object-Oriented Programming, Collections, Data Structures & Algorithms, problem solving, and practical development.
+I'm using it to build my Java fundamentals and gradually move towards
+OOP, Collections, and Data Structures & Algorithms.
 
-The goal is not just to learn Java syntax, but to build a strong understanding of the language and become comfortable using Java for real-world development and technical problem solving.
+## Contents
 
----
+- Java Basics
+- Object-Oriented Programming
+- Collections
+- Data Structures & Algorithms
+- Problem Solving
 
-## Learning Roadmap
-
-### 1. Java Fundamentals
-- Variables & Data Types
-- Operators
-- Input & Output
-- Conditional Statements
-- Loops
-- Methods
-- Arrays
-- Strings
-
-### 2. Object-Oriented Programming
-- Classes & Objects
-- Constructors
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Interfaces
-
-### 3. Core Java & Collections
-- Exception Handling
-- Packages
-- Generics
-- ArrayList
-- LinkedList
-- Stack
-- Queue
-- HashMap
-- HashSet
-- Iterators
-
-### 4. Data Structures & Algorithms
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Recursion
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Binary Search Trees
-- Heaps
-- Hashing
-- Graphs
-- Dynamic Programming
-
-### 5. Problem Solving
-Problems will be solved progressively, from basic problems to medium and eventually advanced DSA problems.
-
-Practice platforms:
-- LeetCode
-- Other coding assessment platforms
-
----
-
-## Repository Structure
+## Structure
 
 ```text
 Java-Learning/
-│
 ├── Basics/
-│   └── HelloWorld.java
-│
 ├── OOP/
-│
 ├── Collections/
-│
 ├── DSA/
-│
 └── README.md
+```
+
+The folders will be added and updated as I progress.
+
+Tools
+Java (JDK 21)
+Visual Studio Code
+Git
+GitHub
+Practice
+
+DSA and problem-solving practice will be done alongside the language
+learning, mainly using LeetCode and other coding platforms.
