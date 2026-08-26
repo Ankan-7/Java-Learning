@@ -28,10 +28,10 @@ The folders will be added and updated as I progress.
 
 ## Tools
 
-Java (JDK 21)
-Visual Studio Code
-Git
-GitHub
+- Java (JDK 21)
+- Visual Studio Code
+- Git
+- GitHub
 
 ## Practice
 
