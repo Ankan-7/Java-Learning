@@ -1,4 +1,4 @@
-# ☕ Java Learning Journey
+# Java Learning Journey
 
 Welcome to my Java learning repository!
 
@@ -8,7 +8,7 @@ The goal is not just to learn Java syntax, but to build a strong understanding o
 
 ---
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
 ### 1. Java Fundamentals
 - Variables & Data Types
@@ -65,7 +65,7 @@ Practice platforms:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Java-Learning/
